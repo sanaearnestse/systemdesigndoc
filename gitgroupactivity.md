@@ -5,7 +5,7 @@ For performing different operations on git using terminal we created a four memb
 2.Then created a group members file in that repository
 3.The master invited us and we accept the invitations.
 #### *Step 2:Cloning Git Repository*
-For cloning the git repository to our local repository,we copy the git repository link from github.Then git clone command is as follows:
+For cloning the git repository to our local repository,we copy the git repository link from github.The git clone command is as follows:
 >git clone git@github.com:[sanaearnestse/SDLab.git]()
 #### *Step 3:Git Initialization*
 >git init
@@ -28,7 +28,7 @@ When we commit the files are added to the git repository.
 4.Pull operation
 >git pull
 
-We perform pull operation before every push to understand the changes in the repository.The git pull operation shows alreay existing files.When we tried to  perform git push before pull operation,a message "git push rejected" was shown.
+We perform pull operation before every push to understand the changes in the repository.The git pull operation shows already existing files.When we tried to  perform git push before pull operation,a message "git push rejected" was shown.
 5.Push operation
 >git push origin master
 
@@ -38,7 +38,7 @@ After this command we login to git from terminal and the files are added to remo
 1.Creating a new branch
 >git checkout -b sanabranch
 
-If create branch then we can get the message "switched to a new branch"
+If create branch then we can got the message "switched to a new branch"
 2.Adding files to branch.
 >git add greater.sh
 
@@ -56,7 +56,7 @@ This command list out all the branches.
 
 >git status
 
-This commandand shows the current branch in the repository.
+This command shows the current branch in the repository.
 
 #### *Step 6:Git Rebase Operation*
 >git rebase 149ffg88998cd58881
@@ -68,7 +68,7 @@ The rebase operation adds the base of the current branch to the given commit id 
 This command will shows a graph that contains all the activities we performed on git.This graph helped us to clearly understand the flow of all opeartions.
  
 ---
-To prepare this mark down file I used **Document Node** tool.This tool is very easy to understand and we can easly format our document using this tool.To format the document 'format' tool is available in this tool.We can also run our file in this tool.
+To prepare this mark down file I used **Document Node** tool.This tool is very easy to understand and we can easly format our document using this tool.To format the document 'format' tool is available in this tool.We can also run our file using this tool.
 
 
 
