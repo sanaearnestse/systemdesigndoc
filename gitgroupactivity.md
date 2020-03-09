@@ -1,11 +1,11 @@
 ﻿## GITHUB GROUP ACTIVITY
-For performing different operations on git using terminal we created a four members group.The menbers are Riya Jofi,Sana Earnest,Saniya Thahseen and Sariga M.S.We selected Saniya as our group leader.Therefore we take leader's repository as the master branch.The different operayions we performed are as follows:
+For performing different operations on git using terminal we created a four members group.The members are Riya Jofi,Sana Earnest,Saniya Thahseen and Sariga M.S.We selected Saniya as our group leader.Therefore we take leader's repository as the master branch.The different operations we performed are as follows:
 #### *Step 1:Repository creation*
 1.First we created a repository 'SDLab' on github.
 2.Then created a group members file in that repository
 3.The master invited us and we accept the invitations.
 #### *Step 2:Cloning Git Repository*
-For cloning the git repository to our local repository,we copy the git repository link from github.Then git lone command is as follows:
+For cloning the git repository to our local repository,we copy the git repository link from github.Then git clone command is as follows:
 >git clone git@github.com:[sanaearnestse/SDLab.git]()
 #### *Step 3:Git Initialization*
 >git init
